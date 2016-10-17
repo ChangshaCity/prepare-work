@@ -5,7 +5,7 @@ $(document).ready(function() {
     animation: "slide",
     animationSpeed: 300,
     smoothHeight: true,
-    slideshow: false,
+    slideshow: false
   });
 });
 
