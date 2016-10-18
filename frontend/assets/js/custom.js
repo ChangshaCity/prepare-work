@@ -24,14 +24,14 @@ $(document).ready(function() {
    $(".features").hover(
    	function () {
    		   $(this).addClass("features-active");
-   	
+
    	}
    );
    $(".features").hover(
    	function () {
    			$('.features').removeClass("features-active");
    		   $(this).addClass("features-active");
-   	
+
    	}
    );
 });

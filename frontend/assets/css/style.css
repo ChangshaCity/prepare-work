@@ -110,7 +110,7 @@ body {
 .drop-shadow:before,
 .drop-shadow:after {
     content:"";
-    position:absolute;
+    position: absolute;
     z-index:-2;
 }
 .curved:before {
