@@ -1,9 +1,9 @@
 ul#navigation {
     position: fixed;
-    margin: 0px;
-    padding: 0px;
+    margin: 0;
+    padding: 0;
     top: 140px;
-    left: 0px;
+    left: 0;
     list-style: none;
     z-index:999999;
 }
@@ -55,7 +55,7 @@ ul#navigation li span {
 	width: 34px;
 	background: #86c543;
 	float: left;
-	margin-left: 0px;
+	margin-left: 0;
 	margin-bottom: 11px;
 }
 .style_blue {
@@ -82,7 +82,7 @@ ul#navigation li span {
 	width: 34px;
 	background: #10CDE1;
 	float: left;
-	margin-left: 0px;
+	margin-left: 0;
 	margin-bottom: 11px;
 }
 .style_turquoise2 {
@@ -109,7 +109,7 @@ ul#navigation li span {
 	width: 34px;
 	background: #FE5E00;
 	float: left;
-	margin-left: 0px;
+	margin-left: 0;
 	margin-bottom: 11px;
 }  
 .colour-container {
