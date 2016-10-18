@@ -38,7 +38,7 @@
 }
 .content-image-overlay {
 	background: url(../../img/icon_view_purple.png) no-repeat center center, url(../../img/image_overlay.png);
-	background-size: 0px 0px;
+	background-size: 0 0;
 	
 }
 .content-image-overlay:hover {

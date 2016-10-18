@@ -13,13 +13,13 @@
 	.flex-control-nav {width: 750px; position: absolute; bottom: 103px; text-align: right;}
 	
 	.navbar-inner {
-		padding: 0px 42px 0px 42px !important;
+		padding: 0 42px 0 42px !important;
 	}
 	.nav-list .active:after  {
 		content: "";
 		width: 63px;
 		height: 49px;
-		margin-top: 0px;
+		margin-top: 0;
 		margin-left: 75px !important;
 		position: absolute;
 		background: transparent url(../img/vertical_tab_active_shadow2.png) no-repeat right top !important;
@@ -48,7 +48,7 @@
 	.side-time h3, .side-comment h3 {
 		color: #fff !important;
 		font-weight: bold !important;
-		margin: 0px 0 0 0 !important;
+		margin: 0 0 0 0 !important;
 		padding: 0 0 0 0 !important;
 		line-height: 32px;
 		font-size: 14px;
@@ -64,8 +64,8 @@
 	}
 	.side-comment p:after {
 		content: "";
-	    width: 0px;
-	    height: 0px;
+	    width: 0;
+	    height: 0;
 	    border-top:12px solid #444;
 	    border-right:12px solid transparent;
 	   margin-top: 20px;
@@ -136,8 +136,8 @@
 		margin-bottom: 62px;
 	}
 	.content-bubble-triangle {
-	   width: 0px;
-	   height: 0px;
+	   width: 0;
+	   height: 0;
 	   border-top:30px solid #fff;
 	   border-right:30px solid transparent;
 	   margin-top: -63px;
@@ -160,11 +160,11 @@
 		display: none;
 	}
 	.navbar-inner {
-		padding: 0px 42px 0px 42px !important;
+		padding: 0 42px 0 42px !important;
 	}
 	.flex-control-nav {display: none;
 	}	
-	.slider { margin-top: 0px !important;}
+	.slider { margin-top: 0 !important;}
 	.flex-control-nav {width: 162px; position: absolute; bottom: 103px; text-align: right;}
 	.flex-direction-nav a { display: none !important; }
 	
@@ -205,8 +205,8 @@
 		background: #EFEFEF url('../img/stripes-divider.png') repeat-x;
 	}
 	.bubble-triangle {
-	   width: 0px;
-	   height: 0px;
+	   width: 0;
+	   height: 0;
 	   border-top:50px solid #86c543;
 	   border-right:50px solid transparent;
 	   margin-top: -22px;
@@ -215,8 +215,8 @@
 	}
 	
 	.footer-bubble .bubble-triangle {
-	   width: 0px;
-	   height: 0px;
+	   width: 0;
+	   height: 0;
 	   border-top:50px solid #86c543;
 	   border-right:50px solid transparent;
 	   margin-top: 44px;
@@ -262,7 +262,7 @@
 		content: "";
 		width: 63px;
 		height: 49px;
-		margin-top: 0px;
+		margin-top: 0;
 		margin-left: 129px !important;
 		position: absolute;
 		background: none !important;
@@ -288,9 +288,9 @@
 	}
 	.navbar ul {
 		float: right !important;
-		font-size: 14px;
-		font-family: Arial;
-		letter-spacing: 0.5px;
+		font-size: 12px;
+		font-family: Arial, sans-serif;
+		letter-spacing: 1px;
 		font-weight: lighter;
 		-webkit-font-smoothing: antialiased;
 		-moz-font-smoothing: antialiased;
@@ -317,7 +317,7 @@
 	}
 	.dropdown-menu {
 		width: 100% !important;
-		border-radius: 0px !important;
+		border-radius: 0 !important;
 		margin-top: -2px !important;
 		margin-bottom: 12px !important;
 		background: #222 !important;
@@ -375,8 +375,8 @@
 		display: none;
 	}
 	.active-bubble-triangle {
-	   width: 0px;
-	   height: 0px;
+	   width: 0;
+	   height: 0;
 	   border-top:22px solid #86c543;
 	   border-right:22px solid transparent;
 	   top: 7px;
@@ -401,8 +401,8 @@
 		display: none;
 	}
 	.footer .row {
-		margin-top: 0px !important;
-		margin-bottom: 0px !important;
+		margin-top: 0 !important;
+		margin-bottom: 0 !important;
 	}
 	.vertical-divider {
 		background-image: none;
@@ -434,16 +434,16 @@
 	   
 	th {
 		background: #86c543;
-		padding: 14px 0px 14px 0px !important;
+		padding: 14px 0 14px 0 !important;
 		color: #fff;
 		text-align: center !important;
 		font-size: 10px;
 	}
 	td {
-		padding: 14px 0px 14px 0px !important;
+		padding: 14px 0 14px 0 !important;
 		color: #333;
 		text-align: center !important;
-		font-size: 11.5px;
+		font-size: 11px;
 		background: #f7f7f7;
 		border-right: 1px solid #ddd;
 	}
@@ -460,7 +460,7 @@
 		height: 150px;
 	}
 	.slider-vcenter {
-		margin-top: 0px !important;
+		margin-top: 0 !important;
 	}
 	.bubble .btn {
 		padding: 11px 18px !important;
@@ -488,7 +488,7 @@
 		display: none;
 	}
 	.bubble {
-		padding: 0px 22px 0px 22px;
+		padding: 0 22px 0 22px;
 	}
 	.bubble .btn {
 		width: 100%;
@@ -516,13 +516,13 @@
 		height: auto;
 	}
 	.slider-vcenter {
-		margin-top: 0px !important;
+		margin-top: 0 !important;
 	}
 	.flex-control-nav {display: none;}
 	
 	.search {
 		width: 100%;
-		right: 0px;
+		right: 0;
 	}
 	.search input {
 		width: 100%;

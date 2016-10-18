@@ -19,9 +19,6 @@
 	 background: -ms-linear-gradient(top,  #9bdd4f 0%,#86c543 100%) !important; /* IE10+ */
 	 background: linear-gradient(to bottom,  #9bdd4f 0%,#86c543 100%) !important; /* W3C */
 	 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#9bdd4f', endColorstr='#86c543',GradientType=0 ) !important;
-	
-	  filter: progid:DXImageTransform.Microsoft.gradient(enabled = false);
-	
 }
 
 .bubble h4, .title-bubble h5 {
@@ -44,7 +41,7 @@
 }
 .content-image-overlay {
 	background: url(../../img/icon_view_green.png) no-repeat center center, url(../../img/image_overlay.png);
-	background-size: 0px 0px;
+	background-size: 0 0;
 	
 }
 .content-image-overlay:hover {
