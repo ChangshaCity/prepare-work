@@ -135,3 +135,9 @@ $(document).ready(function() {
 	padding: ['5px', '5px', '5px', '5px']
 	});
 });
+
+// SmoothScroll
+//=======================================
+$(document).ready(function() {
+	$('a[href^="#"]').smoothScroll();
+});
