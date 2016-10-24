@@ -139,5 +139,5 @@ $(document).ready(function() {
 // SmoothScroll
 //=======================================
 $(document).ready(function() {
-	$('a[href^="#"]').smoothScroll();
+	$('a[href^="#"][rel="scroll"]').smoothScroll();
 });
