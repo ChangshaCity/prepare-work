@@ -52,4 +52,9 @@
 	background: url(../../img/icon_view_turquoise2.png) no-repeat center center, url(../../img/image_overlay.png);
 	background-size: 48px 48px;
 }
-
+th {
+	background: #85c6c2 !important;
+}
+.th-black {
+	background: #59C8C2!important;
+}
