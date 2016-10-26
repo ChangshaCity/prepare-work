@@ -53,4 +53,10 @@
 	background: url(../../img/icon_view_black.png) no-repeat center center, url(../../img/image_overlay.png);
 	background-size: 48px 48px;
 }
+th {
+	background: #333333 !important;
+}
+.th-black {
+	background: #222!important;
+}
 

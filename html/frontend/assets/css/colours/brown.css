@@ -50,4 +50,9 @@
 	background: url(../../img/icon_view_brown.png) no-repeat center center, url(../../img/image_overlay.png);
 	background-size: 48px 48px;
 }
-
+th {
+	background: #937d6b !important;
+}
+.th-black {
+	background: #776251!important;
+}
