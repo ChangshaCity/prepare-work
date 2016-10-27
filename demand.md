@@ -9,7 +9,7 @@
       * 任务需求 => order-requirement
       * 任务进度 => order-progress 
   * 项目展示 => demo (demo-view 详情)
-  * 博客 个人技术分享 个人信息
+  * 博客 个人技术分享 个人信息 => blog-list (blog-view)
   * 团队介绍 历程，成员简介
   * 用户系统（注册用户）
 
