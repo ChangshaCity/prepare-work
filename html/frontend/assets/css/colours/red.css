@@ -54,3 +54,13 @@ th {
 .th-black {
 	background: #C34642!important;
 }
+.pagination ul > li > a:hover,
+.pagination ul > .active > a,
+.pagination ul > .active > span {
+	background-color: #91362F!important;
+	color: #fff!important;;
+}
+.pagination ul > li > a,
+.pagination ul > li > span {
+	color: #91362F!important;;
+}
