@@ -2,37 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ddf8dcc8-c37a-45cd-95a4-bd01874d44cd" name="默认的" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html/backend/500.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html/backend/blank_page.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html/backend/blog-detail.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html/backend/blog-list.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html/backend/button.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html/backend/calendar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html/backend/chart.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html/backend/element.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html/backend/file-upload.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html/backend/grids.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html/backend/icon.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html/backend/invoice.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html/backend/lock-screen.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html/backend/map.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html/backend/media.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html/backend/pricing_table.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html/backend/profile.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html/backend/social.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html/backend/text-editor.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html/backend/time-line.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html/backend/tree.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html/backend/typhography.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html/backend/wizard.html" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/backend/andvance-form.html" afterPath="$PROJECT_DIR$/html/backend/andvance-form.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/backend/form-element.html" afterPath="$PROJECT_DIR$/html/backend/form-element.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/backend/index.html" afterPath="$PROJECT_DIR$/html/backend/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/backend/login.html" afterPath="$PROJECT_DIR$/html/backend/login.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/html/backend/mail.html" afterPath="$PROJECT_DIR$/html/backend/list.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/html/backend/table-dynamic.html" afterPath="$PROJECT_DIR$/html/backend/list-3.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/html/backend/table-static.html" afterPath="$PROJECT_DIR$/html/backend/list-2.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/backend/blank_page.html" afterPath="$PROJECT_DIR$/html/backend/blank_page.html" />
     </list>
     <ignored path="prepare-work.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -281,11 +251,43 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="form-element.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="form-element.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/html/backend/form-element.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5302245">
-              <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+            <state vertical-scroll-proportion="-7.230769">
+              <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+              <folding>
+                <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#nav#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#style#0;n#i#0;n#a#0;n#li#0;n#ul#0;n#div#1;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#ul#0;n#li#0;n#ul#0;n#div#1;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#i#0;n#a#0;n#li#1;n#ul#0;n#div#1;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#ul#0;n#li#1;n#ul#0;n#div#1;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#a#0;n#li#0;n#ul#0;n#li#1;n#ul#0;n#div#1;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#i#0;n#a#0;n#li#2;n#ul#0;n#div#1;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#li#0;n#ul#0;n#div#0;n#div#1;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#li#0;n#ul#1;n#div#0;n#div#1;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#ul#1;n#div#1;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#ul#0;n#li#0;n#ul#1;n#div#1;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#a#0;n#li#2;n#ul#1;n#div#1;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#li#0;n#ul#1;n#div#0;n#div#0;n#div#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#li#0;n#ul#2;n#div#0;n#div#0;n#div#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#i#0;n#span#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#i#0;n#span#0;n#li#1;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#i#0;n#span#0;n#li#2;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="blank_page.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/html/backend/blank_page.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.6476684">
+              <caret line="224" column="31" selection-start-line="224" selection-start-column="31" selection-end-line="224" selection-end-column="31" />
               <folding>
                 <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#nav#0;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -331,6 +333,7 @@
         <option value="$PROJECT_DIR$/html/backend/list-3.html" />
         <option value="$PROJECT_DIR$/html/backend/andvance-form.html" />
         <option value="$PROJECT_DIR$/html/backend/form-element.html" />
+        <option value="$PROJECT_DIR$/html/backend/blank_page.html" />
       </list>
     </option>
   </component>
@@ -792,8 +795,38 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/html/backend/form-element.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5302245">
-          <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+        <state vertical-scroll-proportion="-7.230769">
+          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding>
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#nav#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#i#0;n#a#0;n#li#0;n#ul#0;n#div#1;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#ul#0;n#li#0;n#ul#0;n#div#1;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#i#0;n#a#0;n#li#1;n#ul#0;n#div#1;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#ul#0;n#li#1;n#ul#0;n#div#1;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#a#0;n#li#0;n#ul#0;n#li#1;n#ul#0;n#div#1;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#i#0;n#a#0;n#li#2;n#ul#0;n#div#1;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#0;n#ul#0;n#div#0;n#div#1;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#0;n#ul#1;n#div#0;n#div#1;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#ul#1;n#div#1;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#ul#0;n#li#0;n#ul#1;n#div#1;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#a#0;n#li#2;n#ul#1;n#div#1;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#li#0;n#ul#1;n#div#0;n#div#0;n#div#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#li#0;n#ul#2;n#div#0;n#div#0;n#div#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#i#0;n#span#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#i#0;n#span#0;n#li#1;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#i#0;n#span#0;n#li#2;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/backend/blank_page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6476684">
+          <caret line="224" column="31" selection-start-line="224" selection-start-column="31" selection-end-line="224" selection-end-column="31" />
           <folding>
             <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#nav#0;n#body#0;n#html#0;n#!!top" expanded="false" />
