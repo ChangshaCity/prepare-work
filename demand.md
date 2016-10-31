@@ -10,7 +10,7 @@
       * 任务进度 => order-progress 
   * 项目展示 => demo (demo-view 详情)
   * 博客 个人技术分享 个人信息 => blog-list (blog-view)
-  * 团队介绍 历程，成员简介
+  * 团队介绍 历程，成员简介 联系我们 => about，our team ， contact
   * 用户系统（注册用户）（用户信息 登录 注册）
 
 ## backend (暂时中英 印度语待定)
