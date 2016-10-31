@@ -11,7 +11,7 @@
   * 项目展示 => demo (demo-view 详情)
   * 博客 个人技术分享 个人信息 => blog-list (blog-view)
   * 团队介绍 历程，成员简介
-  * 用户系统（注册用户）
+  * 用户系统（注册用户）（用户信息 登录 注册）
 
 ## backend (全印度语页面)
 * business menu
