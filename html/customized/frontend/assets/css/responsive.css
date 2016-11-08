@@ -2,8 +2,7 @@
 @media (min-width: 1200px) {  }
  
 /* Portrait tablet to landscape and desktop */
-@media (min-width: 768px) and (max-width: 979px) { 
-	
+@media (min-width: 768px) and (max-width: 979px) {
 	.slider { margin-top: 95px !important;}
 	
 	.navbar { margin-bottom: 0; }
